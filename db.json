@@ -1,0 +1,10 @@
+{
+  "user": [
+    {
+      "id" : "TEST_USER",
+      "name" : "Alen Alex",
+      "role" : "ADMIN",
+      "institution" : "Y Institute"
+    }
+  ]
+}
